@@ -17,10 +17,13 @@
                 <a href="#gallery" class="hover:text-gray-300">Gallery</a>
                 <a href="#testimonials" class="hover:text-gray-300">Testimonials</a>
                 <a href="#contact" class="hover:text-gray-300">Contact</a>
+                <a href="{{ route('login') }}">kelassss</a>
+                <a href="{{ route('about') }}">kelefsrge</a>
+                
             </div>
         </nav>
     </header>
-
+    
     <section class="hero min-h-screen flex items-center justify-center bg-gray-500">
         <div class="text-center text-white space-y-4">
             <h1 class="text-4xl font-bold">Your Inspiring Headline</h1>
@@ -108,3 +111,7 @@
 
 </body>
 </html>
+
+
+
+
